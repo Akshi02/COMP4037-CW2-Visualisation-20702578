@@ -1,0 +1,17 @@
+{
+  "name": "comp4037-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "papaparse": "^5.5.2",
+    "plotly.js-basic-dist": "^3.0.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-plotly.js": "^2.6.0"
+  }
+}

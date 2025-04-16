@@ -1,0 +1,12 @@
+/* styles/globals.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  color: #333;
+}
