@@ -43,7 +43,7 @@ export default function Home() {
           />
 
           {/* Gender toggle below radar */}
-          <div style={{ marginTop: '20px', textAlign: 'center', marginRight: '60px' }}>
+          <div style={{ marginTop: '30px', textAlign: 'center', marginRight: '60px' }}>
             <label style={{ marginRight: '10px' }}>Gender: </label>
             <button
               onClick={() => setGender('female')}
