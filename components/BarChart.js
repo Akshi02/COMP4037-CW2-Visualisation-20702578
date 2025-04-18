@@ -55,7 +55,7 @@ export default function BarChart({ data, ageGroup, selectedImpact }) {
           margin: { t: 50, b:15, r: 120 },
           xaxis: { title: 'Diet Group' },
           yaxis: { title: 'Impact Value' },
-          height: 420
+          height: 500
         }}
         config={{ responsive: true }}
         transition={{
