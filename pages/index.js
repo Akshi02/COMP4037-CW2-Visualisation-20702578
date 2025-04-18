@@ -85,7 +85,7 @@ export default function Home() {
 
           {/* Slider below bar chart */}
           {ageOptions.length > 0 && (
-            <div style={{ marginTop: '20px', textAlign: 'center', marginRight: '90px' }}>
+            <div style={{ marginTop: '40px', textAlign: 'center', marginRight: '90px' }}>
               <label style={{ fontWeight: 'bold', marginRight: '10px' }}>Age Group:</label>
               <input
                 type="range"
