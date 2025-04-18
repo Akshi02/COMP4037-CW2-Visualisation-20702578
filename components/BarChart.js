@@ -52,7 +52,7 @@ export default function BarChart({ data, ageGroup, selectedImpact }) {
         layout={{
           barmode: 'group',
           legend: { orientation: 'v', x: 1.05, y: 1 },
-          margin: { t: 50, b:20, r: 120 },
+          margin: { t: 50, b:15, r: 120 },
           xaxis: { title: 'Diet Group' },
           yaxis: { title: 'Impact Value' },
           height: 500
