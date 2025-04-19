@@ -14,8 +14,8 @@ This project is a dynamic interactive dashboard for **visualizing the environmen
 - 📉 **Bar Chart**: Displays diet-wise impact value, broken down by gender and age group. The bar chart updates the impact value based on the selection `eg. GHG` of the impact's data value in the radar chart.
 - 📦 **Box Plot**: Shows variability and outliers of impact values for each diet/gender. You can find it under the `supplementary_charts/` folder as it is a static visualisation. 
 
-Check out the Box Plot Code:  
-👉 [Box Plot Code](https://colab.research.google.com/drive/1eTBf1l60Fcc_SnPSDr_WF9CgAFAYo5Xw?usp=sharing)
+  Check out the Box Plot Code:  
+  👉 [Box Plot Code](https://colab.research.google.com/drive/1eTBf1l60Fcc_SnPSDr_WF9CgAFAYo5Xw?usp=sharing)
 
 - 🧭 Responsive UI powered by **Next.js** and **Plotly.js**.
 
