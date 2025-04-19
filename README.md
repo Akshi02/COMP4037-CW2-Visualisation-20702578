@@ -11,8 +11,8 @@ This project is a dynamic interactive dashboard for **visualizing the environmen
 ## 🚀 Features
 
 - 📊 **Radar Chart**: Compares 5 impact metrics across 6 diets interactively by age and gender.
-- 📉 **Bar Chart**: Displays diet-wise GHGs, broken down by gender and age group.
-- 📦 **Box Plot**: Shows variability and outliers of impact values for each diet/gender. You can find it under the Supplementary Charts folder as it is a static visualisation. 
+- 📉 **Bar Chart**: Displays diet-wise impact value, broken down by gender and age group. The bar chart updates the impact value based on the selection `eg. GHG` of the impact's data value in the radar chart.
+- 📦 **Box Plot**: Shows variability and outliers of impact values for each diet/gender. You can find it under the `supplementary_charts/` folder as it is a static visualisation. 
 
 Check out the Box Plot Code:  
 👉 [Box Plot Code](https://colab.research.google.com/drive/1eTBf1l60Fcc_SnPSDr_WF9CgAFAYo5Xw?usp=sharing)
@@ -26,7 +26,7 @@ Hosted on **Vercel**:
 
 ## 🧪 Dataset
 
-The primary dataset is `Results_21Mar2022.csv`, obtained from (https://ora.ox.ac.uk/objects/uuid:ca441840-db5a-48c8-9b82-1ec1d77c2e9c) for the CW2 coursework. 
+The primary dataset is `Results_21Mar2022.csv`, obtained from https://ora.ox.ac.uk/objects/uuid:ca441840-db5a-48c8-9b82-1ec1d77c2e9c for the CW2 coursework. 
 
 ## 🗺️ Digital Map (Attempt) 
 
